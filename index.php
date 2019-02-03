@@ -28,11 +28,11 @@
 
     <div  class="info">
         <h3>HealthBook</h3>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti, est obcaecati quia unde iste nisi amet dolorem exercitationem minus, totam veritatis a doloremque debitis dicta ad vero quidem, omnis optio.
+            <p>We introduce you Entropy HealthBook to go paperless with your medical record. This is the place which will help you stay fit with the help of data transparency with your doctor.
             </p>
-        <div class="button">
+        <!-- <div class="button">
             <a href="">bla</a>
-        </div>
+        </div> -->
     </div>
 
     <div id="portion2" class="portion two">
@@ -42,11 +42,11 @@
     <div  class="info">
         <h3>Benefits</h3>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae, quia dolore harum inventore explicabo libero doloribus totam, esse expedita fuga neque labore voluptatibus, autem accusamus similique asperiores modi veritatis vitae.
+                It is easily accessible anywhere for you to update it. Paperless reports. It is cost effective as there is no need of travelling to the hospital to get your reports and even your doctor can see your health status anywhere.
             </p>
-        <div class="button">
+        <!-- <div class="button">
              <a href="">bla</a>
-        </div>
+        </div> -->
     </div>
 
     <div id="portion3" class="portion">
@@ -56,11 +56,11 @@
     <div  class="info">
         <h3>AboutUS</h3>
         <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, ex? Explicabo culpa voluptatibus rerum, repellendus deleniti odio iure minus exercitationem magni sint, omnis quis esse vero. Numquam harum quia dolor!
+            We can have everything with us and that too in a smart way. People's medical info can be securely accessed by them anywhere at anytime with help of healthbook record.
         </p>
-        <div class="button">
+        <!-- <div class="button">
             <a href="">bla</a>
-        </div>
+        </div> -->
     </div>
 
     <div id="portion4" class="portion two">
@@ -68,9 +68,9 @@
     </div>
 
         <div  class="info">
-            <h3>bla4</h3>
+            <h3>Login/Register</h3>
         <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur ipsam quos reiciendis corrupti, laudantium ea delectus, perferendis tempora doloremque rerum esse, natus soluta enim nostrum tempore eaque? Facilis, alias deleniti.
+            We assure you full security and data integrity so you can trust us always. Stay healthy!
         </p>
 
        <div style="display: inline;"> 
